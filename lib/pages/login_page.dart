@@ -18,7 +18,7 @@ class LoginPage extends StatelessWidget {
               fit: BoxFit.cover,
             ),
             SizedBox(height: 20.0),
-            Text("Welcome",
+            Text("Welcome to loginpage",
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20)),
             SizedBox(height: 20.0),
             Padding(
